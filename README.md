@@ -8,8 +8,8 @@ A web-based Knowledge-Based Agent that navigates a Wumpus World grid using **Pro
 
 | Resource       | URL |
 |----------------|-----|
-| Live Demo      | _paste your Vercel URL here_ |
-| LinkedIn Post  | _paste your LinkedIn URL here_ |
+| Live Demo      | https://wumpus-agent-ebon.vercel.app/ |
+| LinkedIn Post  | https://www.linkedin.com/posts/ahmad-ali-ml-engineer_artificialintelligence-machinelearning-python-ugcPost-7456045765317017600-IFQG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8wwbUBV25c1uHXlp4gRlQ4zfuhwgopW8Y |
 
 ---
 

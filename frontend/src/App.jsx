@@ -20,21 +20,6 @@ const keyframes = `
   }
 `;
 
-const EMPTY_STATE = {
-  pos:                   [0, 0],
-  rows:                  0,
-  cols:                  0,
-  cell_statuses:         {},
-  visited:               [],
-  kb_size:               0,
-  total_inference_steps: 0,
-  inference_log:         [],
-  kb_clauses_sample:     [],
-  last_percepts:         {},
-  alive:                 true,
-  won:                   false,
-};
-
 export default function App() {
   const [gameState,     setGameState]     = useState(null);
   const [banner,        setBanner]        = useState(null);   // { type, message }
